@@ -1,6 +1,6 @@
 # Weather Condition Classification using Support Vector Machine (SVM) and Open-Meteo API
 
-**Author:** Akshat Garg  
+**Author:** Vaidehi Sharma  
 
 **Registration Number:** 23BEC10051 
 
